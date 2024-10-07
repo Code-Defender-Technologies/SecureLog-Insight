@@ -280,7 +280,7 @@ main_frame = ttk.Frame(root)
 main_frame.pack(expand=True, fill=tk.BOTH, padx=10, pady=10)
 
 # Header Label
-header_label = ttk.Label(main_frame, text="ByteDefenders Technology", font=("Arial", 16, "bold"))
+header_label = ttk.Label(main_frame, text="CodeDefender Technologies", font=("Arial", 16, "bold"))
 header_label.pack(pady=(10, 20))
 
 # Log Type Section
