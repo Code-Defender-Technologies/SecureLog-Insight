@@ -20,7 +20,7 @@
   ```bash
   pip install pywin32
 
-- **CSV Module: Included in Python by default, used to export logs to CSV.**
+- **CSV Module:** Included in Python by default, used to export logs to CSV.
 
 ## Installation
 
