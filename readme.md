@@ -29,7 +29,7 @@ Follow these steps to set up SecureLog Insight:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/SecureLogInsight.git
+git clone https://github.com/Code-Defender-Technologies/SecureLog-Insight.git
 ```
 
 Navigate to the project directory:
