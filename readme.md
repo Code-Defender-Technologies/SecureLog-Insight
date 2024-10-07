@@ -76,10 +76,11 @@ If the log output is empty, exporting will be disabled to prevent empty files fr
 ## CSV Export
 The exported logs will be saved in a CSV format with the following structure:
 
-TimeGenerated: The time when the event occurred.
-SourceName: The source of the event (e.g., system component).
-EventID: The unique identifier for the event.
-Description: A detailed description of the event (or user information for login events).
+- **TimeGenerated:** The time when the event occurred.
+- **SourceName:** The source of the event (e.g., system component).
+- **EventID:** The unique identifier for the event.
+- **Description:** A detailed description of the event (or user information for login events).
+
 The CSV can be easily imported into SIEM systems for further security analysis and monitoring.
 
 ## License
